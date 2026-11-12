@@ -1,0 +1,11 @@
+{
+ "updated": "2026-11-12T09:00+08:00",
+ "source": "https://bhuntr.com",
+ "sample": true,
+ "items": [
+  {"url": "https://bhuntr.com/tw/competitions", "title": "【範例】全國高中職永續海報設計比賽", "organizer": "範例基金會", "summary": "用一張海報說出你對氣候行動的想法，手繪或電繪都可以。", "eligibility": "參賽資格：全國高中職在學學生", "deadline": "2026-11-20", "prize": 50000, "categories": ["設計", "社會公益"], "difficulty": 1, "difficulty_reasons": ["只限高中生參加，對手程度相近"], "high_school": "yes", "first_seen": "2026-11-12"},
+  {"url": "https://bhuntr.com/tw/competitions", "title": "【範例】青少年 AI 創意應用黑客松", "organizer": "範例科技協會", "summary": "三人一隊，48 小時內用 AI 解決校園裡的真實問題。", "eligibility": "參賽對象：16–22 歲青少年", "deadline": "2027-01-15", "prize": 300000, "categories": ["程式科技"], "difficulty": 3, "difficulty_reasons": ["獎金 10 萬以上，競爭通常較激烈", "有多階段評審"], "high_school": "yes", "first_seen": "2026-11-12"},
+  {"url": "https://bhuntr.com/tw/competitions", "title": "【範例】城市散步微電影徵件", "organizer": "範例文化局", "summary": "用三分鐘影片拍下你家附近的一條街，手機拍攝即可。", "eligibility": "", "deadline": "2026-12-28", "prize": 80000, "categories": ["影音攝影"], "difficulty": 2, "difficulty_reasons": ["沒有明顯的難易線索，預設為進階"], "high_school": "maybe", "first_seen": "2026-11-12"},
+  {"url": "https://bhuntr.com/tw/competitions", "title": "【範例】給十年後自己的一封信 徵文", "organizer": "範例出版社", "summary": "800 字以內的書信體散文，學生組另設獎項。", "eligibility": "參加對象：不限，分學生組與社會組", "deadline": "2027-02-28", "prize": 15000, "categories": ["寫作文學"], "difficulty": 1, "difficulty_reasons": ["有高中／學生專屬組別", "獎金規模較小"], "high_school": "yes", "first_seen": "2026-11-12"}
+ ]
+}
