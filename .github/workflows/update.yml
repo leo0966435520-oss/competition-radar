@@ -20,7 +20,7 @@ jobs:
       - run: pip install -r scraper/requirements.txt
       - name: 抓取比賽
         env:
-          CONTACT: ${{ vars.CONTACT_EMAIL }}
+          CONTACT: ${{ secrets.CONTACT_EMAIL || vars.CONTACT_EMAIL }}
           MAX_PAGES: "5"
           DELAY: "3"
         run: python scraper/scrape.py
